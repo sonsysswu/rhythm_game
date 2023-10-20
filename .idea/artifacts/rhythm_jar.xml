@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rhythm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rhythm_jar</output-path>
+    <root id="archive" name="rhythm.jar">
+      <element id="module-output" name="rhythm" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../jar_files/jlayer-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
